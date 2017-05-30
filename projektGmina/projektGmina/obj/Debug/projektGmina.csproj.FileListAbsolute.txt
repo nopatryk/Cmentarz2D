@@ -1,71 +1,4 @@
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\Cmentarz 2D Wierzbica.exe.config
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\Cmentarz 2D Wierzbica.exe
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\Cmentarz 2D Wierzbica.pdb
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.additionalForm.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.AllData.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.detailsForm.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.Form1.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.loggingForm.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.Properties.Resources.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.YesNoForm.resources
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.csproj.GenerateResource.Cache
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.exe
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.pdb
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\Cmentarz 2D Wierzbica.exe.config
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\Cmentarz 2D Wierzbica.exe
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\Cmentarz 2D Wierzbica.pdb
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\EntityFramework.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\EntityFramework.SqlServer.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\GMap.NET.Core.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\GMap.NET.WindowsForms.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\GMap.NET.WindowsPresentation.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\Newtonsoft.Json.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\System.Data.SQLite.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\System.Data.SQLite.EF6.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\System.Data.SQLite.Linq.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\EntityFramework.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\EntityFramework.SqlServer.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\Newtonsoft.Json.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program2\System.Data.SQLite.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\projektGmina.csprojResolveAssemblyReference.cache
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\EntityFramework.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\EntityFramework.SqlServer.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\GMap.NET.Core.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\GMap.NET.WindowsForms.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\GMap.NET.WindowsPresentation.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\Newtonsoft.Json.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\System.Data.SQLite.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\System.Data.SQLite.EF6.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\System.Data.SQLite.Linq.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\EntityFramework.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\EntityFramework.SqlServer.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\Newtonsoft.Json.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Program\System.Data.SQLite.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.exe.config
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.exe
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.pdb
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\EntityFramework.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\EntityFramework.SqlServer.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\GMap.NET.Core.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\GMap.NET.WindowsForms.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\GMap.NET.WindowsPresentation.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Newtonsoft.Json.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\System.Data.SQLite.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\System.Data.SQLite.EF6.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\System.Data.SQLite.Linq.dll
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\EntityFramework.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\EntityFramework.SqlServer.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Newtonsoft.Json.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\System.Data.SQLite.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\gminaCmentarz.mdb
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.exe.manifest
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.application
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.TrustInfo.xml
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.exe.manifest
-C:\Users\Patryk\Source\Repos\projektGmina\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.application
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.exe.config
-C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.exe
-C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.pdb
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\bin\Programs\gminaCmentarz.mdb
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.exe.manifest
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\bin\Programs\Cmentarz 2D Wierzbica.application
@@ -96,3 +29,5 @@ C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\proj
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.TrustInfo.xml
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.exe.manifest
 C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.application
+C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.exe
+C:\Users\Patryk\Source\Repos\Cmentarz2D\projektGmina\projektGmina\obj\Debug\Cmentarz 2D Wierzbica.pdb
