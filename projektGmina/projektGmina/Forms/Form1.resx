@@ -3460,7 +3460,7 @@
     <value>76</value>
   </data>
   <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-49, 103</value>
+    <value>4, 103</value>
   </data>
   <data name="panel3.MaximumSize" type="System.Drawing.Size, System.Drawing">
     <value>1370, 1000</value>
