@@ -13,6 +13,9 @@ Program stworzony na potrzeby gminy, którego zadaniem jest ułatwienie zarządz
 * Drukowanie wszystkich danych
 * Drukowanie konkretnego miejsca
 
+Nie jest to aplikacja, która bazuje na pięknym wyglądzie czy na magicznych animacjach. Głównym celem była prosta obsługa i funkcjonalność, myślę, że zostało to wykonane. Głównie dlatego, że jest ona w użyciu w danej gminie. 
+Może w przyszłości, dodam aplikacji nowego wyglądu, kilka nowych funkcji by odświeżyć program. Na pewno minusem aplikacji i to co trzeba zmienić jest dopasowanie jej do rozmiaru każdego ekranu w tym momencie w pełni funkcjonalnie będzie ona działała tylko na ekranach nie mniejszych niż 20''.
+
 ## Wygląd głównego ekranu - tryb przeglądania
 Po kliknięciu w odpowiednie miejsce, możemy edytować zapisywać oraz drukować dane
 ![](https://preview.ibb.co/jRhOHa/cmentarz.png)
