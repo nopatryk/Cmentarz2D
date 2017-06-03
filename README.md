@@ -24,4 +24,7 @@ Po kliknięciu w odpowiednie miejsce, możemy edytować zapisywać oraz drukowa�
 Podwójne kliknięcie spowoduje dodanie nowego miejsca, możemy nim manipulować przpez przeciąganie po ekranie.
 Poza tym w górnym menu możemy wybrać jaki to ma być typ miejsca
 ![](https://preview.ibb.co/cpvzqv/cmentarzedit.png)
+
 ## Przykładowy film obrazujący funkcjonalność programu
+* Oczywiście nie mogłem umieścić oryginalnej bazy danych dlatego w projekcie jak i na filmie baza danych zawiera samych "Janków Nowaków" :) Widać to na przykład po wyszukaniu imienia Jan - zapalają sie wszystkie miejscą...
+[![Cmentarz 2D (https://img.youtube.com/vi/Akt-10TvKJ0/0.jpg)](https://www.youtube.com/watch?v=Akt-10TvKJ0)
