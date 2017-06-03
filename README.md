@@ -27,5 +27,6 @@ Poza tym w górnym menu możemy wybrać jaki to ma być typ miejsca
 
 ## Przykładowy film obrazujący funkcjonalność programu
 * Oczywiście nie mogłem umieścić oryginalnej bazy danych dlatego w projekcie jak i na filmie baza danych zawiera samych "Janków Nowaków" :) Widać to na przykład po wyszukaniu imienia Jan - zapalają sie wszystkie miejscą...
-[![Cmentarz 2D] (https://img.youtube.com/vi/Akt-10TvKJ0/0.jpg)](https://www.youtube.com/watch?v=Akt-10TvKJ0)
+
+[![Cmentarz 2D](https://img.youtube.com/vi/Akt-10TvKJ0/0.jpg)](https://www.youtube.com/watch?v=Akt-10TvKJ0)
 
